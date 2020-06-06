@@ -1,4 +1,4 @@
-Django==2.0.1
+Django==2.2.13
 # Djangoの依存で以下が入る
 # pytz==2017.3
 
